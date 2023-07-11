@@ -4,8 +4,8 @@ animations/*/media/Tex
 animations/*/media/texts
 animations/*/media/videos/**/partial_movie_files
 **/__pycache__
-defense/animations/media/images
-defense/animations/media/data
-defense/animations/media/Tex
-defense/animations/media/videos/**/partial_movie_files
-defense/animations/media/texts
+animations/defense/animations/media/images
+animations/defense/animations/media/data
+animations/defense/animations/media/Tex
+animations/defense/animations/media/videos/**/partial_movie_files
+animations/defense/animations/media/texts
